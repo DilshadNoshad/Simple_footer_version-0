@@ -33,8 +33,8 @@ git clone  https://github.com/DilshadNoshad/Simple_footer_version-0.git
 
 # Live Preview
 
-Url
+Url  https://dilshadnoshad.github.io/Simple_footer_version-0/
 
 <br>
 
-## Happy Coding!
+## Happy Coding 🎉!
