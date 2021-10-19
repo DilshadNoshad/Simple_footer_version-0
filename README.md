@@ -17,7 +17,7 @@
 - Download or clone the repository
 
 ```
-git clone
+git clone  https://github.com/DilshadNoshad/Simple_footer_version-0.git
 ```
 
 - Go to the directory
